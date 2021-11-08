@@ -1,0 +1,10 @@
+nav{
+    border-bottom: 1px solid;
+}
+.navbar-brand{
+    font-size: 35px;
+}
+.navbarRoute{
+    text-decoration: none;
+    margin: 7px 7px;
+}
